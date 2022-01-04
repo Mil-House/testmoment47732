@@ -15,14 +15,9 @@
         padding-top: 25px; /*24px*/
     }
 
-    /*.havay {
-        /*margin-top: 4.7rem; 4.7 rem
-        width: 100%;
+    .havay {
         height: 25px;
-    }*/
-
-    .banner {
-        padding-top: 25px;
+        width: 100%;
         /*margin-top: 6.2rem; 4.7 rem + 1.5rem(24px) */
     }
 }
@@ -50,7 +45,7 @@
 }
 
 .animate {
-	display:flex;
+	display: flex;
 	justify-content: center;
 	align-items: center;
 	height: 100%;
