@@ -8,11 +8,11 @@
 }
 */
 
-@media screen and (display-mode: standalone) and (max-width: 767px)
+@media screen and (display-mode: standalone) /*and (max-width: 767px)*/
 {
     header {
         /*height: 20px !important;*/ /*4.8rem*/ /*5.55rem 12px = 0.75rem*/
-        padding-top: 1.5rem; /*24px*/
+        padding-top: 25px; /*24px*/
     }
 
     /*.havay {
@@ -22,7 +22,8 @@
     }*/
 
     .banner {
-        margin-top: 6.2rem; /*4.7 rem + 1.5rem(24px) */
+        padding-top: 25px;
+        /*margin-top: 6.2rem; 4.7 rem + 1.5rem(24px) */
     }
 }
 
